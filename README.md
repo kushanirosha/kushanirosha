@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kushan Dissanayake</h1>
 <h3 align="center">Bachelor of Science Honors in Information Systems | RUSL</h3>
+https://cdnl.iconscout.com/lottie/premium/preview-watermark/male-developer-5942138-4936310.mp4
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kushanirosha&label=Profile%20views&color=0e75b6&style=flat" alt="kushanirosha" /> </p>
 
