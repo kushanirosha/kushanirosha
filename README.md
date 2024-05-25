@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Kushan Dissanayake</h1>
 <h3 align="center">Bachelor of Science Honors in Information Systems | RUSL</h3>
+
 <p align="center">
  <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 100px>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kushanirosha&label=Profile%20views&color=0e75b6&style=flat" alt="kushanirosha" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=kushanirosha&label=Profile%20views&color=0e75b6&style=flat" alt="kushanirosha" /> </p>
 
+<h3> 🧍 &nbsp;About Me</h3>
 - 🌱 I’m currently learning **Bachelor of Science Honors in Information Systems | RUSL**
 
 - 👨‍💻 All of my projects are available at [https://kushandissanayake.netlify.app/](https://kushandissanayake.netlify.app/)
