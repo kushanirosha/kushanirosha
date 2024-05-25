@@ -1,3 +1,5 @@
+![Header](./your-header-image-name.png)
+
 <h1 align="center">Hi 👋, I'm Kushan Dissanayake</h1>
 <h3 align="center">Bachelor of Science Honors in Information Systems | RUSL</h3>
 
