@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kushan Dissanayake</h1>
 <h3 align="center">Bachelor of Science Honors in Information Systems | RUSL</h3>
-<img align="right" width="400" src="https://iconscout.com/lottie-animation/male-developer-5942138"
-  
+<p align="center">
+ <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 100px>
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kushanirosha&label=Profile%20views&color=0e75b6&style=flat" alt="kushanirosha" /> </p>
 
 - 🌱 I’m currently learning **Bachelor of Science Honors in Information Systems | RUSL**
