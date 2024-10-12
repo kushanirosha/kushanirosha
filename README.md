@@ -37,6 +37,12 @@
 - 🎨 &nbsp;
  <img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/> <img src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
 
+ <hr>
+ # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=kushanirosha&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=kushanirosha&theme=one_dark_pro&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kushanirosha&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
