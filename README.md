@@ -3,7 +3,7 @@
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 200px margin-bottom="80px">
 
 # 💫 About Me:
-🔭 I’m currently working as Intern - Fullstack Developer at Residue Solutions (pvt) Ltd
+🔭 I’m currently working as Junior Fullstack Software Developer at Residue Solutions (pvt) Ltd
 <br>🌱 I’m currently learning Bachelor of Science Honors in Information Systems | RUSL<br>👨‍💻 All of my projects are available at https://kushandissanayake.netlify.app/<br>📫 How to reach me kushandissanayake57@gmail.com
 
 # 💻 Tech Stack:
